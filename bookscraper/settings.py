@@ -17,7 +17,10 @@ FEEDS = {
 }
 
 
-SCRAPEOPS_API_KEY = ''
+SCRAPEOPS_API_KEY = '7c93735e-a8ae-47f2-85a9-8d34002bfb4d'
+SCRAPEOPS_FAKE_USER_AGENT_ENDPOINT = 'https://headers.scrapeops.io/v1/user-agents'
+SCRAPEOPS_FAKE_USER_AGENT_ENABLED = True
+SCRAPEOPS_NUM_RESULTS = 10
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
